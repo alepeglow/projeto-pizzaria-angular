@@ -1,1 +1,1 @@
-# projeto-pizzaria---angular
+# projeto-pizzaria-angular
